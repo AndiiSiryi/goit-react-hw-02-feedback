@@ -4,7 +4,6 @@
 }
 
 .btnItem {
-  font-size: 40px;
   letter-spacing: 2px;
   text-align: center;
 }
@@ -17,4 +16,5 @@
   border: none;
   box-shadow: 0 4px 4px #00000026;
   cursor: pointer;
+  background-color: rgb(80 174 246);
 }
